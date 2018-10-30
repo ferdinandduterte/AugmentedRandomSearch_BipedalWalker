@@ -1,6 +1,8 @@
 # AugmentedRandomSearch_BipedalWalker
 Teaching BipedalWalker how to walk using Augmented Random Search Algorithm
 
+![demo](https://image.ibb.co/c2c9F5/ezgif_com_resize.gif)
+
 ## SETUP:
     1. `pip install gym` to install OpenAI gym environment
     2. To make the BipedalWalker working, install Box2D following this guide : https://github.com/pybox2d/pybox2d/blob/master/INSTALL.md
