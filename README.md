@@ -1,7 +1,6 @@
 # AugmentedRandomSearch_BipedalWalker
 Teaching BipedalWalker how to walk using Augmented Random Search Algorithm
 
-![demo](https://image.ibb.co/c2c9F5/ezgif_com_resize.gif)
 
 ## SETUP:
     1. `pip install gym` to install OpenAI gym environment
