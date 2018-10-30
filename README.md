@@ -12,8 +12,9 @@ Teaching BipedalWalker how to walk using Augmented Random Search Algorithm
     1. AttributeError: module '_Box2D' has no attribute 'RAND_LIMIT_swigconstant'
        Fix: `pip install box2d box2d-kengz`
 
-## STEP:
-    1. python AugmentedRandomSearch_BipedalWalker.py
+## RUNNING:
+    a. 'python AugmentedRandomSearch_BipedalWalker.py'
+    b. 'python AugmentedRandomSearch_BipedalWalker.py --steps=2000' , where steps = number of trials before bipedal walker stops training
     
 ## CREDITS:
     - Codes from: https://github.com/colinskow/move37/tree/master/ars
